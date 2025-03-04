@@ -70,4 +70,18 @@ Results-driven Cybersecurity Engineer & IT Support Specialist with a strong trac
     <img src="https://img.shields.io/badge/-GitHub_Actions-181717?&style=for-the-badge&logo=GitHubActions&logoColor=white" />
 </div>
 
+## Professional Certificate
+<div>
+    <img src="https://img.shields.io/badge/-IBM_Cybersecurity_Analyst_Professional-1F70C1?&style=for-the-badge&logo=IBM&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Certified_Azure_Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Certified_in_Cybersecurity_(ISC2)-00A57E?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberArk_Defender--PAM-1F2D5A?&style=for-the-badge&logo=CyberArk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberArk_Sentry-1F2D5A?&style=for-the-badge&logo=CyberArk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_365_Identity_and_Services-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_AI_Essentials-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <a href="https://www.credly.com/badges/fd04ab03-1aaa-4ba7-b112-4f0606e21e49/linked_in_profile">
+    <img src="https://img.shields.io/badge/-Google_AI_Essentials-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
+
 
