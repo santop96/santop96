@@ -7,17 +7,35 @@ Results-driven Cybersecurity Engineer & IT Support Specialist with a strong trac
 ## Core Technical Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Penetration Testing & Vulnerability Management| Identifying, exploiting, and remediating security vulnerabilities in applications, networks, and cloud environments |
 | Network Traffic Monitoring                    | <a href="https://google.com">Detection Lab</a>|
-| Symantec Endpoint Protection                  | SEP Lab|
-| Symantec Endpoint Encryption                  | SEE Lab|
-| CyberArk Configuration and Implementation     | CyberArk Configuration and Implementation Lab|
+| Symantec Endpoint Protection                  |Implementing Symantec Endpoint Security to protect sensitive data|
+| Symantec Endpoint Encryption                  |Implementing Symantec Endpoint Encryption to protect sensitive data|
+| Privileged Access Management (PAM)            | Deploying and managing CyberArk for identity and access control|
+| Security Compliance & Governance              |Ensuring ISO 27001, PCI DSS, GDPR, and NIST compliance through risk assessments and security audits.|
+| Network & System Security                     | Securing IT infrastructure, managing Active Directory, configuring firewalls, access points, and security policies |
 
 ## Tools
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### Penetration Testing & Vulnerability Scanning
+<div>
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-008CBA?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys_VMDR-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-7B42BC?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nexpose-1F2D5A?&style=for-the-badge&logo=Rapid7&logoColor=white" />
+</div>
+
+### Security Compliance & Governance
+<div>
+    <img src="https://img.shields.io/badge/-ISO_27001-005C97?&style=for-the-badge&logo=ISO&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PCI_DSS-008CBA?&style=for-the-badge&logo=Security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GDPR-005BAC?&style=for-the-badge&logo=GDPR&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST_Frameworks-FFCC00?&style=for-the-badge&logo=NIST&logoColor=black" />
 </div>
 
 ### Endpoint
@@ -28,8 +46,28 @@ Results-driven Cybersecurity Engineer & IT Support Specialist with a strong trac
 
 ### Privilege Access Management
 <div>
-  <img src="https://img.shields.io/badge/-CyberArk_PAM_Solution-1F2D5A?&style=for-the-badge&logo=CyberArk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberArk-1F2D5A?&style=for-the-badge&logo=CyberArk&logoColor=white" />
 </div>
 
+### Networking & System Security
+<div>
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Firewalls-FF5733?&style=for-the-badge&logo=Security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Access_Points-2E86C1?&style=for-the-badge&logo=Network&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_365_Identity_and_Services-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<div>
+
+### Programming & Automation
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+</div>
+
+### Security in DevOps (DevSecOps)
+<div>
+    <img src="https://img.shields.io/badge/-CI/CD_Pipeline_Integration-2496ED?&style=for-the-badge&logo=Jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SAST_&_DAST_in_Jenkins-2496ED?&style=for-the-badge&logo=Jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub_Actions-181717?&style=for-the-badge&logo=GitHubActions&logoColor=white" />
+</div>
 
 
