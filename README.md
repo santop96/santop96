@@ -74,12 +74,16 @@ Results-driven Cybersecurity Engineer & IT Support Specialist with a strong trac
 <div>
     <a href="https://www.credly.com/earner/earned/badge/231db8c7-473b-4c24-9c68-37cca39996c4">
     <img src="https://img.shields.io/badge/-IBM_Cybersecurity_Analyst_Professional-1F70C1?&style=for-the-badge&logo=IBM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <a href="https://www.credly.com/badges/147aeabc-e2b7-45e2-be87-9e901de23fcd/linked_in_profile">    
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" 
+    <a href="https://www.credly.com/earner/earned/badge/7f123a3f-b319-4145-8fc2-de16abd8dc0e">
     <img src="https://img.shields.io/badge/-Microsoft_Certified_Azure_Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <a href="https://www.credly.com/earner/earned/badge/78edf8f9-e01f-4944-a967-f209c73db816">
     <img src="https://img.shields.io/badge/-Certified_in_Cybersecurity_(ISC2)-00A57E?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <a href="https://www.credly.com/earner/earned/badge/28144db8-dfe3-4d73-af0d-d64497392d99">
     <img src="https://img.shields.io/badge/-CyberArk_Defender--PAM-1F2D5A?&style=for-the-badge&logo=CyberArk&logoColor=white" />
+    <a href="https://www.credly.com/earner/earned/badge/72063d08-22cd-4182-b3a2-a1284061f368">
     <img src="https://img.shields.io/badge/-CyberArk_Sentry-1F2D5A?&style=for-the-badge&logo=CyberArk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_365_Identity_and_Services-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <a href="https://www.credly.com/badges/fd04ab03-1aaa-4ba7-b112-4f0606e21e49/linked_in_profile">
     <img src="https://img.shields.io/badge/-Google_AI_Essentials-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
