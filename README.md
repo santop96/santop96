@@ -70,6 +70,11 @@ Results-driven Cybersecurity Engineer & IT Support Specialist with a strong trac
     <img src="https://img.shields.io/badge/-GitHub_Actions-181717?&style=for-the-badge&logo=GitHubActions&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Azure_Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
+
 ## Professional Certificate
 <div>
     <a href="https://www.credly.com/earner/earned/badge/231db8c7-473b-4c24-9c68-37cca39996c4">
