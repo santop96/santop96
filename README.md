@@ -1,7 +1,7 @@
-# Hello, I'm Sanni Rasheed
+# I'm Sanni Rasheed
 <a href="https://www.linkedin.com/in/rasheed-sanni/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-## Introduction
 
+## Professional Introduction
 Results-driven Cybersecurity Engineer & IT Support Specialist with a strong track record in implementing security controls, mitigating risks, and ensuring regulatory compliance. Adept at deploying and managing Privileged Access Management (PAM) solutions, endpoint security, and vulnerability management tools. Proactive in identifying and resolving cybersecurity threats while providing technical support. Passionate about leveraging technology to enhance security and business efficiency.
 
 ## Core Technical Skills
@@ -87,5 +87,13 @@ Results-driven Cybersecurity Engineer & IT Support Specialist with a strong trac
     <a href="https://www.credly.com/badges/fd04ab03-1aaa-4ba7-b112-4f0606e21e49/linked_in_profile">
     <img src="https://img.shields.io/badge/-Google_AI_Essentials-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
+        
+## LAB Demostration
+- CyberArk Implementation and Configuration
+- Symantec Endpoint Protection
+- Symantec Endpoint Encryption
+- Network Monitoring using Wireshark
+- BurpSuite for Web Vulnerability
+- Symantec Dataloss Protection Implementation
 
 
