@@ -4,25 +4,32 @@
 
 Results-driven Cybersecurity Engineer & IT Support Specialist with a strong track record in implementing security controls, mitigating risks, and ensuring regulatory compliance. Adept at deploying and managing Privileged Access Management (PAM) solutions, endpoint security, and vulnerability management tools. Proactive in identifying and resolving cybersecurity threats while providing technical support. Passionate about leveraging technology to enhance security and business efficiency.
 
-## Skills
+## Core Technical Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Penetration Testing & Vulnerability Management| Identifying, exploiting, and remediating security vulnerabilities in applications, networks, and cloud environments |
 | Network Traffic Monitoring                    | <a href="https://google.com">Detection Lab</a>|
 | Symantec Endpoint Protection                  | SEP Lab|
 | Symantec Endpoint Encryption                  | SEE Lab|
 | CyberArk Configuration and Implementation     | CyberArk Configuration and Implementation Lab|
 
-**santop96/santop96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
 
-Here are some ideas to get you started:
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Symantec_Endpoint_Protection-FFD700?&style=for-the-badge&logo=Symantec&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Symantec_Endpoint_Encryption-FFD700?&style=for-the-badge&logo=Symantec&logoColor=black" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Privilege Access Management
+<div>
+  <img src="https://img.shields.io/badge/-CyberArk_PAM_Solution-1F2D5A?&style=for-the-badge&logo=CyberArk&logoColor=white" />
+</div>
+
+
+
